@@ -1,0 +1,3 @@
+rootProject.name = 'AccordianCollapseToggleRN'
+
+include ':app'
